@@ -83,11 +83,6 @@ function nextImg(){
 previousBtn.addEventListener("click", backImg);
 nextBtn.addEventListener("click", nextImg);
 
-// set max(current) number
-// function maxNum(){
-//     const currentNum = getResults().data.num;
-//     return currentNum;
-// }
 // range of random number
 function rangeOfRandomNum(min, max){
     return Math.floor(Math.random() * (max - min + 1) + min)

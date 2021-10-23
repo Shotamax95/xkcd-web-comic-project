@@ -3,5 +3,11 @@ Retrieve api from here https://xkcd.com/json.html
 ## Functions
 * Display latest image as home.
 * Next, Previous, Random button.
-* Search by comic id.
-<img src="https://user-images.githubusercontent.com/59264454/138374430-bba7aff8-390d-4ebd-aca7-399b377fdca5.png">
+* Search by comic id
+* Responsive Screen
+
+## Smartphone View
+<img src="https://user-images.githubusercontent.com/59264454/138569624-c90f4dd8-781b-4f5a-b907-fe92a6847540.png">
+
+## Laptop View
+<img src="https://user-images.githubusercontent.com/59264454/138569622-91959e4f-6b11-4efa-94dd-52ee2ca900c7.png">
