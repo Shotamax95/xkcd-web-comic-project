@@ -8,7 +8,7 @@
 * Responsive Screen
 
 ## Next step...(Enhancements)
-* node.js for back end such showing ID on URL
+* node.js for back end such as showing ID on URL
 * React or Ejs for front end to handle node.js
 
 ## Smartphone View
